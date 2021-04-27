@@ -33,7 +33,7 @@ e2.nextvalue = e3
 
 list.AtBegining("Sun")
 
-list.listprint()
+print(list)
 
 #Using the above examples as a guide, create your own interpretation of the a Binary Search Tree class. 
 #You can not use the code above exactly, but again it can be used as a guide.
